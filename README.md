@@ -18,7 +18,7 @@ https://archlinux.org/packages/extra/x86_64/arm-none-eabi-gcc/
 ## Compiling the code
 
 Run `make`
-It should create a file `main.elf`
+It should create files `main.elf`, `main.dump` and `main.bin`
 
 ## Flashing the board
 
